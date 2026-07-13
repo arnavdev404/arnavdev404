@@ -17,27 +17,16 @@ Building scalable web applications with modern technologies while continuously l
 ## 📊 GitHub Analytics
 
 <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=arnavdev404&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arnavdev404&layout=compact&theme=tokyonight"/>
+  <img src="https://streak-stats.demolab.com?user=arnavdev404&theme=tokyonight&hide_border=true&border_radius=12" />
 </p>
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=arnavdev404&theme=tokyonight"/>
-</p>
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=arnavdev404&theme=tokyonight&margin-w=15&margin-h=15"/>
-</p>
-
----
 
 ## 🚀 Current Project
 
 🔭 **Bazaaar – Full Stack Fashion E-commerce Platform**
+<img align="center" width="350" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="250"/>
 
 https://github.com/arnavdev404/bazaaar
 
----
 
 ## 🌱 Currently Learning
 
@@ -45,7 +34,7 @@ https://github.com/arnavdev404/bazaaar
 <tr>
 <td width="35%" align="center">
 
-<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="250"/>
+<img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" width="230"/>
 
 </td>
 
@@ -63,7 +52,7 @@ https://github.com/arnavdev404/bazaaar
 </td>
 </tr>
 </table>
----
+
 
 ## 🤝 Looking to Collaborate
 
