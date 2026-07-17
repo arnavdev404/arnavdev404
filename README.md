@@ -23,20 +23,6 @@ Building scalable web applications with modern technologies while continuously l
     alt="Arnav Anand GitHub Profile Summary"
   />
 </p>
-
-<p align="center">
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=arnavdev404&theme=tokyonight"
-    height="180"
-    alt="Arnav Anand GitHub Statistics"
-  />
-
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=arnavdev404&theme=tokyonight"
-    height="180"
-    alt="Most Used Languages"
-  />
-</p>
 ## 🚀 Current Project
 
 ### 🌦️ Arnav Weather Web
@@ -159,8 +145,41 @@ HTML • CSS • JavaScript • React • Git • GitHub • C • C++ • Pytho
 
 ## 🌍 Portfolio
 
-🌐 https://anandarnav.in
+<table align="center">
+  <tr>
+    <td align="center">
+      <h3>🚀 Explore My Developer Portfolio</h3>
 
+      <p>
+        Discover my projects, skills, experience and journey as a developer.
+      </p>
+
+      <a href="https://anandarnav.in" target="_blank">
+        <img
+          src="https://img.shields.io/badge/OPEN%20PORTFOLIO-anandarnav.in-0EA5E9?style=for-the-badge&logo=googlechrome&logoColor=white"
+          alt="Open Arnav Anand Portfolio"
+        />
+      </a>
+
+      <br><br>
+
+      <img
+        src="https://img.shields.io/badge/Responsive-Website-22C55E?style=flat-square"
+        alt="Responsive Website"
+      />
+
+      <img
+        src="https://img.shields.io/badge/Modern-UI%2FUX-8B5CF6?style=flat-square"
+        alt="Modern UI UX"
+      />
+
+      <img
+        src="https://img.shields.io/badge/Built%20by-Arnav%20Anand-F59E0B?style=flat-square"
+        alt="Built by Arnav Anand"
+      />
+    </td>
+  </tr>
+</table>
 ---
 
 ## ⚡ Fun Fact
