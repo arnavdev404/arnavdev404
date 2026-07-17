@@ -145,41 +145,23 @@ HTML • CSS • JavaScript • React • Git • GitHub • C • C++ • Pytho
 
 ## 🌍 Portfolio
 
-<table align="center">
-  <tr>
-    <td align="center">
-      <h3>🚀 Explore My Developer Portfolio</h3>
+<div align="center">
 
-      <p>
-        Discover my projects, skills, experience and journey as a developer.
-      </p>
+### 🚀 Explore My Developer Portfolio
 
-      <a href="https://anandarnav.in" target="_blank">
-        <img
-          src="https://img.shields.io/badge/OPEN%20PORTFOLIO-anandarnav.in-0EA5E9?style=for-the-badge&logo=googlechrome&logoColor=white"
-          alt="Open Arnav Anand Portfolio"
-        />
-      </a>
+Discover my projects, skills, experience, and journey as a developer.
 
-      <br><br>
+<a href="https://anandarnav.in">
+  <img src="https://img.shields.io/badge/OPEN%20PORTFOLIO-anandarnav.in-0EA5E9?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Open Arnav Anand Portfolio">
+</a>
 
-      <img
-        src="https://img.shields.io/badge/Responsive-Website-22C55E?style=flat-square"
-        alt="Responsive Website"
-      />
+<br><br>
 
-      <img
-        src="https://img.shields.io/badge/Modern-UI%2FUX-8B5CF6?style=flat-square"
-        alt="Modern UI UX"
-      />
+<img src="https://img.shields.io/badge/Responsive-Website-22C55E?style=flat-square" alt="Responsive Website">
+<img src="https://img.shields.io/badge/Modern-UI%2FUX-8B5CF6?style=flat-square" alt="Modern UI UX">
+<img src="https://img.shields.io/badge/Built%20by-Arnav%20Anand-F59E0B?style=flat-square" alt="Built by Arnav Anand">
 
-      <img
-        src="https://img.shields.io/badge/Built%20by-Arnav%20Anand-F59E0B?style=flat-square"
-        alt="Built by Arnav Anand"
-      />
-    </td>
-  </tr>
-</table>
+</div>
 ---
 
 ## ⚡ Fun Fact
