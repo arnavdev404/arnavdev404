@@ -22,7 +22,7 @@ Building scalable web applications with modern technologies while continuously l
 
 ## 🚀 Current Project
 
-🔭 **Bazaaar – Full Stack Fashion E-commerce Platform**
+🔭 **Arnav Weather web**
 <img align="center" width="350" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="250"/>
 
 https://github.com/arnavdev404/bazaaar
