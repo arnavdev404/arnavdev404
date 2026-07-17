@@ -17,16 +17,52 @@ Building scalable web applications with modern technologies while continuously l
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=arnavdev404&theme=tokyonight&hide_border=true&border_radius=12" />
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arnavdev404&theme=tokyonight"
+    width="100%"
+    alt="Arnav Anand GitHub Profile Summary"
+  />
 </p>
 
+<p align="center">
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=arnavdev404&theme=tokyonight"
+    height="180"
+    alt="Arnav Anand GitHub Statistics"
+  />
+
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=arnavdev404&theme=tokyonight"
+    height="180"
+    alt="Most Used Languages"
+  />
+</p>
 ## 🚀 Current Project
 
-🔭 **Arnav Weather web**
-<img align="center" width="350" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="250"/>
+### 🌦️ Arnav Weather Web
 
-https://github.com/arnavdev404/arnav-weather-web
+<p align="center">
+  <img
+    src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"
+    width="350"
+    alt="Weather Application"
+  />
+</p>
 
+<p align="center">
+  A responsive weather dashboard providing real-time weather,
+  hourly forecasts, five-day forecasts and air-quality information.
+</p>
+
+<p align="center">
+  <a href="https://github.com/arnavdev404/arnav-weather-web">
+    <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+
+  <a href="https://arnavweatherweb.netlify.app">
+    <img src="https://img.shields.io/badge/Live%20Demo-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
+  </a>
+</p>
 ## 🌱 Currently Learning
 
 <table>
