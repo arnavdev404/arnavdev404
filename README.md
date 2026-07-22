@@ -27,8 +27,6 @@
   />
 </p>
 
----
-
 ## 🚀 Current Project
 
 ### 🌦️ Arnav Weather Web
@@ -62,8 +60,6 @@
   </a>
 </p>
 
----
-
 ## 🌱 Currently Learning
 
 <table>
@@ -77,21 +73,19 @@
     </td>
 
     <td width="65%">
-
-- ⚛️ React.js
-- ▲ Next.js
-- 🟢 Node.js
-- 🚀 Express.js
-- 🍃 MongoDB
-- 🔷 TypeScript
-- 🌿 Git & GitHub
-- 🔗 REST APIs
-
-  </td>
+      <ul>
+        <li>⚛️ React.js</li>
+        <li>▲ Next.js</li>
+        <li>🟢 Node.js</li>
+        <li>🚀 Express.js</li>
+        <li>🍃 MongoDB</li>
+        <li>🔷 TypeScript</li>
+        <li>🌿 Git &amp; GitHub</li>
+        <li>🔗 REST APIs</li>
+      </ul>
+    </td>
   </tr>
 </table>
-
----
 
 ## 🤝 Looking to Collaborate
 
@@ -108,33 +102,33 @@ HTML • CSS • JavaScript • React • Git • GitHub • C • C++ • Pytho
 ## 🛠 Tech Stack
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
   &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" />
   &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
   &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript" />
   &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" />
   &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js" />
   &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="Express.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="Express.js" />
   &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB" />
   &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
   &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub" />
   &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="C"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="C" />
   &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++" />
   &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
   &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java" />
 </p>
 
 ---
@@ -172,7 +166,9 @@ HTML • CSS • JavaScript • React • Git • GitHub • C • C++ • Pytho
 
 ### 🚀 Explore My Developer Portfolio
 
-Discover my projects, skills, experience, and journey as a developer.
+<p>
+  Discover my projects, skills, experience, and journey as a developer.
+</p>
 
 <a href="https://anandarnav.in">
   <img
@@ -183,20 +179,20 @@ Discover my projects, skills, experience, and journey as a developer.
 
 <br><br>
 
-<img
-  src="https://img.shields.io/badge/Responsive-Website-22C55E?style=flat-square"
-  alt="Responsive Website"
-/>
-
-<img
-  src="https://img.shields.io/badge/Modern-UI%2FUX-8B5CF6?style=flat-square"
-  alt="Modern UI UX"
-/>
-
-<img
-  src="https://img.shields.io/badge/Built%20by-Arnav%20Anand-F59E0B?style=flat-square"
-  alt="Built by Arnav Anand"
-/>
+<p>
+  <img
+    src="https://img.shields.io/badge/Responsive-Website-22C55E?style=flat-square"
+    alt="Responsive Website"
+  />
+  <img
+    src="https://img.shields.io/badge/Modern-UI%2FUX-8B5CF6?style=flat-square"
+    alt="Modern UI UX"
+  />
+  <img
+    src="https://img.shields.io/badge/Built%20by-Arnav%20Anand-F59E0B?style=flat-square"
+    alt="Built by Arnav Anand"
+  />
+</p>
 
 </div>
 
