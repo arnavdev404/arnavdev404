@@ -62,30 +62,7 @@
 
 ## 🌱 Currently Learning
 
-<table>
-  <tr>
-    <td width="35%" align="center">
-      <img
-        src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif"
-        width="230"
-        alt="Developer Animation"
-      />
-    </td>
-
-    <td width="65%">
-      <ul>
-        <li>⚛️ React.js</li>
-        <li>▲ Next.js</li>
-        <li>🟢 Node.js</li>
-        <li>🚀 Express.js</li>
-        <li>🍃 MongoDB</li>
-        <li>🔷 TypeScript</li>
-        <li>🌿 Git &amp; GitHub</li>
-        <li>🔗 REST APIs</li>
-      </ul>
-    </td>
-  </tr>
-</table>
+<table> <tr> <td width="35%" align="center"> <img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" width="230"/> </td> <td width="65%"> - ⚛️ React.js - ▲ Next.js - 🟢 Node.js - 🚀 Express.js - 🍃 MongoDB - 🔷 TypeScript - 🌿 Git & GitHub - 🔗 REST APIs </td> </tr> </table>
 
 ## 🤝 Looking to Collaborate
 
